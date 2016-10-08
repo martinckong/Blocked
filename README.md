@@ -1,2 +1,2 @@
 # Blocked
-a small Javascript game
+a small game I built as a way to practice Javascript
